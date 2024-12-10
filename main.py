@@ -1,2 +1,2 @@
-import time
+import time  # noqa: F401
 
